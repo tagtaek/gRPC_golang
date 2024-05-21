@@ -1,0 +1,2 @@
+if you want to run these codes,
+you need to install 'protoc-gen-go', 'protoc-gen-go-grpc' and some more.
